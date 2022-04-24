@@ -1,0 +1,2 @@
+groups	p-value
+['GNAQ', 'GNA11']	8.20457855680543e-11
